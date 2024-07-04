@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.Ti_blank{
+    margin-bottom:40px;
+}
+.Ist_blank{
+    margin-bottom:20px
+}
+.St_pri_blank{
+    margin-bottom:4px;
+}      
+
+.title_text{
+    color: #2B2B2B;
+    font-family: Pretendard;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+    
+}
+.d-flex{
+    display: flex;
+}
+.jsb{
+    justify-content: space-between;
+}
+.aic{
+    align-items: center;
+}
+.bs{
+    width:278px;
+    height: 325px;
+}
+.bg1{
+    background:url(./img/Mask\ group-1.jpg);
+    width:278px;
+    height: 325px;
+}
+.bg2{
+    background:url(./img/Mask\ group-2.jpg);
+    width:278px;
+    height: 325px;
+}
+.bg3{
+    background:url(./img/Mask\ group-3.jpg);
+    width:278px;
+    height: 325px;
+}
+.bg4{
+    background:url(./img/Mask\ group-4.jpg);
+    width:278px;
+    height: 325px;
+}
+
+.sub_text20{
+    color: #333;
+    font-family: 'Pretendard-Regular'; 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.4px;
+       
+}
+.pri_text{
+    color: #181818;
+    font-family: "PT Sans", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400; 
+    line-height: normal;
+    letter-spacing: 0.25px;
+
+}
+
+.sm_text{
+color: #333;
+font-family: 'Pretendard-Regular';
+font-size: 16px;
+font-style: normal;
+font-weight: 100;
+}
+.Ercm{
+    width: 1201px;
+    height: 498px;
+}
+
